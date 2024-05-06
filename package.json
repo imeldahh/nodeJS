@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index",
-    "express" : "nodemon express.js"
+    "express": "nodemon express.js"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "express": "^4.19.2",
     "nodemon": "^3.1.0"
   }

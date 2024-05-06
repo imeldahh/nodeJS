@@ -26,6 +26,8 @@ app.get("/hello(.html)?", (req, res, next) => {
     res.send("Hello World");
 });
 
+// Route Handlers
+
 const one = (req, res, next) => {
     console.log("One..");
     next();
