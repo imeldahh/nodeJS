@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Uche",
+        "department": "Computer Science",
+        "level": 200
+    },
+    {
+        "name": "Sandra",
+        "department": "Computer Enginneering",
+        "level": 200
+    },
+    {
+        "name": "Alfred",
+        "department": "Mass Communication",
+        "level": 200
+    }
+]
